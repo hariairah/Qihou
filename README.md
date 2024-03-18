@@ -10,4 +10,4 @@ Then on one of your server's channels, type the command
 
 example:
 ```w.tokyo```
-to know the weather at that place.
+to know what the weather at tokyo is like, currently
